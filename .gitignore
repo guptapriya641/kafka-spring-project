@@ -1,0 +1,17 @@
+# Maven build output
+**/target/
+
+# IntelliJ output
+**/out/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kafka local data
+kafka-logs/
